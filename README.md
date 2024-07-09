@@ -2,17 +2,11 @@
 
 Welcome to my TypeScript course to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
-![amazona](/frontend/public/images/amazona.png)
+<!-- ![amazona](/frontend/public/images/amazona.png) -->
 
 ## Get Course:
 
-[https://youtu.be/-ifcPnXHn8Q](https://youtu.be/-ifcPnXHn8Q)
-
-## Demo Website
-
-- 👉 Render : [https://ts-amazona-final.onrender.com](https://ts-amazona-final.onrender.com)
-
-## You Will Learn
+## Features:
 
 - Creating react application by Vite in TypeScript
 - Defining and exporting Types like product, orders and user in frontend
